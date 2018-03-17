@@ -1,0 +1,29 @@
+<The Irwinian Empire> "Fill a 25 tile planet with a different species for every tile, while the remaining planets in your empire contain only your base species"
+
+<The United Nations> "Every existing AI nation is in a federation with you. Must be at least 5 AI's"
+
+<Subjugation Station> "forcibly subjugate all but one other human player"
+
+<The Donut> "control an unbroken circle of territory around the galactic center for 10 continuous years"
+
+<Patron Species> "Uplift or Enlighten 5 primative or presentient species and successfully integrate them"
+
+<True Xenophile> "have one of every existing species in your empire (not counting pre sentients)"
+
+<Master Builder> "build and own one of every mega structure (not counting habitats)"
+
+<Ruthless Diplomat> "have +100 relations with every existing ai empire. 5 ai empires must exist"
+
+<AI Sympathy> "assist the endgame crisis and ensure it reaches one of the base victory conditions"
+
+<God Slayer> "no fallen or awakened empires exist"
+
+<Fanaticism> "no empire exists that has a government following the opposite ethos to your fanatic ethos"
+
+<Master Race> "no species exists that is not in your category (humanoid, mammalian, avian, etc.)"
+
+<Nature Preserve> "own 40 planets, all of the same type (arid, ocean, arctic, etc.)"
+
+<Monopoly> "have all enclaves within your borders and own all of one non-enclave strategic resource"
+
+<Emotionably Unstable> "Eliminate your own empire via the "DONT DO THIS" prompt in psionic Ascension"

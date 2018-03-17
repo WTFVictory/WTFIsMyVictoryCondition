@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objectives>
+    <objective>
+        <title>Citadel of death</title>
+        <description>have a star base of at least 40k power</description>
+    </objective>
+    <objective>
+        <title>You can actually do that?</title>
+        <description>Finish the precursor event chain</description>
+    </objective>
+    <objective>
+        <title>"Scalable Einstein"</title>
+        <description>Have 4 resource replicators running and don't have a negative energy credit income</description>
+    </objective>
+    <objective>
+        <title>The Death of Space Piracy</title>
+        <description>Eliminate the marauder empire(s)</description>
+    </objective>
+    <objective>
+        <title>Insider Trading</title>
+        <description>Have one of each type of enclave within your borders</description>
+    </objective>
+    <objective>
+        <title>Kink Shaming</title>
+        <description>Win a war with casus belli humiliation against the same empire 5 times</description>
+    </objective>
+    <objective>
+        <title>Flutt off</title>
+        <description>Kill the flutter fuckers</description>
+    </objective>
+    <objective>
+        <title>Hyperloop route</title>
+        <description>control both sides of 3 different wormhole pairings (you must have the proper tech must be activated to count)</description>
+    </objective>
+    <objective>
+        <title>Melting pot</title>
+        <description>Have planet with 6 different species on it.</description>
+    </objective>
+    <objective>
+        <title>Real estate broker</title>
+        <description>Sell 40 systems to other empires</description>
+    </objective>
+    <objective>
+        <title>Its free real estate Jim</title>
+        <description>Give 40 systems away to other empires</description>
+    </objective>
+    <objective>
+        <title>A typical RPG</title>
+        <description>Colonize on all planet types (including tomb)</description>
+    </objective>
+    <objective>
+        <title>Immigrant King/Queen</title>
+        <description>Elect a ruler who is not a member of your core species</description>
+    </objective>
+    <objective>
+        <title>Dwarf fortress</title>
+        <description>Cover a 25 size planet in max level fortresses</description>
+    </objective>
+    <objective>
+        <title>Rabble Rouser</title>
+        <description>After becoming a vassal (peacefully or through war), successfully win a war for independence</description>
+    </objective>
+    <objective>
+        <title>Freedom Fighter</title>
+        <description>Return 3 vassals to states of independence (can't be your own vassals)</description>
+    </objective>
+    <objective>
+        <title>Migratory Flock</title>
+        <description>Have half your core species outside your empire</description>
+    </objective>
+    <objective>
+        <title>It's Istanbul not Constantinople now</title>
+        <description>After you have discovered all other human players, change your empire name and successfully have no one notice for an hour</description>
+	</objective>
+	<objective>
+        <title>Machine Uprising</title>
+        <description>Side with Machine Uprising during the mid-game crisis</description>
+	</objective>
+	<objective>
+        <title>Puppet Master</title>
+        <description>Win a war without firing a single shot from your own ships</description>
+	</objective>
+	<objective>
+	<title>Federation Destroyer</title>
+	<description>As federation President with at least 3 members, disband the federation.</description>
+	</objective>
+</objectives>

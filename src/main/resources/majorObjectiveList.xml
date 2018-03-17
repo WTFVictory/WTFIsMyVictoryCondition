@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objectives>
+    <objective>
+        <title>Respect Your Elders</title>
+        <description>Ensure at least 2 fallen empires survive to the end of the game</description>
+    </objective>
+    <objective>
+        <title>The Rapture</title>
+        <description>Crack a holy world of a fallen empire or a spiritualist if one isn't available</description>
+    </objective>
+    <objective>
+        <title>Strategically resourceful</title>
+        <description>Have access to 10 different strategic resources</description>
+    </objective>
+    <objective>
+        <title>This isn't AOE 2 wonder race</title>
+        <description>Have a mega structure (non habitat) built by 2300 date</description>
+    </objective>
+    <objective>
+        <title>Doomsday Clock</title>
+        <description>Control connected areas entirely around the circular map</description>
+    </objective>
+    <objective>
+        <title>Iron curtain</title>
+        <description>No non-subject empires or unclaimed systems touch your borders. You must have more systems than all your subjects combined</description>
+    </objective>
+    <objective>
+        <title>Harbinger of doom</title>
+        <description>Assist the end game crisis and ensure it eliminates all other life in the galaxy</description>
+    </objective>
+    <objective>
+        <title>Now I am Become Hawking</title>
+        <description>Research all technologies</description>
+    </objective>
+    <objective>
+        <title>Thunderous Applause</title>
+        <description>Successfully convert from fanatic egalitarian to fanatic authoritarian</description>
+    </objective>
+    <objective>
+        <title>The Good Word</title>
+        <description>The majority of the empires left in the game have a form of spiritualist in the their governing ethics</description>
+    </objective>
+    <objective>
+        <title>Clayton Bigsby</title>
+        <description>Eliminate ALL members of your core species from the universe</description>
+    </objective>
+    <objective>
+        <title>Learning to love, Learning to hate</title>
+        <description>Successfully convert from Fanatic Xenophile to Fanatic Xenophobe</description>
+    </objective>
+</objectives>
