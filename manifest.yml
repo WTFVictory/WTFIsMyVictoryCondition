@@ -1,0 +1,7 @@
+---
+applications:
+- name: wtf-victory
+  memory: 1024M
+  instances: 1
+  random-route: false
+  buildpack: java_buildpack

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objectives>
     <objective>
-        <title>Citadel of death</title>
-        <description>have a star base of at least 40k power</description>
+        <title>Citadel of Death</title>
+        <description>Have a star base of at least 40k power</description>
     </objective>
     <objective>
         <title>You can actually do that?</title>
         <description>Finish the precursor event chain</description>
     </objective>
     <objective>
-        <title>"Scalable Einstein"</title>
+        <title>Scalable Einstein</title>
         <description>Have 4 resource replicators running and don't have a negative energy credit income</description>
     </objective>
     <objective>
