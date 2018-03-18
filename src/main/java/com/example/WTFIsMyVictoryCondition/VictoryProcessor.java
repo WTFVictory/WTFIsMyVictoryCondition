@@ -55,7 +55,7 @@ public class VictoryProcessor {
         Map<Integer, Objective> mappedMinorObjectives = mapMinorObjectives(minorObjectives);
 
         List<Player> completedPlayerInfo = assignPlayerObjectives(playerInfo, mappedMajorObjectives, mappedMinorObjectives);
-        completedPlayerInfo = giveNemesises(completedPlayerInfo);
+        //completedPlayerInfo = giveNemesises(completedPlayerInfo);
         sendPlayerEmailsWeb(completedPlayerInfo);
     }
 
